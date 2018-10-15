@@ -1,6 +1,6 @@
 #home {
-  background-color: $darker-red;
-  color: white;
+  background-color: $white;
+  color: $dark-gray;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -14,4 +14,8 @@
     font-weight: bold;
     font-size: 16px;
   }
+}
+
+#home-flats{
+  padding: 100px 0;
 }

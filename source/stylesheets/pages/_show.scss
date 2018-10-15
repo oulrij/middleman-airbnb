@@ -1,0 +1,25 @@
+.header-flat-details{
+  display: flex;
+  align-items: center;
+  padding: 30px 30px 30px 0;
+}
+
+.header-flat-owner{
+  p{
+    font-size: .8em;
+    font-weight: lighter;
+  }
+}
+
+.header-flat-name{
+  padding-left: 25px;
+  h1{
+    font-size: 1em;
+    color: $dark-gray;
+    margin: 0 0 12px 0;
+  }
+  p{
+    font-size: .8em;
+    font-weight: lighter;
+  }
+}
